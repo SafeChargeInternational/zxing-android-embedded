@@ -13,10 +13,13 @@
  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  See the License for the specific language governing permissions and
  limitations under the License.
+
+ Modified by Michael Kessler for Nuvei.
+ Modified zxing_msg_default_status.
  -->
 <resources>
   <string name="zxing_app_name">Barcode Scanner</string>
   <string name="zxing_button_ok">OK</string>
   <string name="zxing_msg_camera_framework_bug">Przepraszamy, aparat Android napotkał problem. Może wystąpić potrzeba ponownego uruchomienia urządzenia.</string>
-  <string name="zxing_msg_default_status">Umieść kod paskowy w prostokącie wizjera aby zeskanować.</string>
+  <string name="zxing_msg_default_status">Umieść kod Abon QR w poniższego pola</string>
 </resources>
